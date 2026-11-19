@@ -2,7 +2,7 @@
 - 👀 I’m interested in Artificial Intelligence
 - 🌱 I’m currently learning Python,C,C++,Linux
 - 💞️ I’m looking to collaborate on AI Projects
-- 📫 How to reach me Instagram @srinivas_14
+- 📫 How to reach me E-Mail srinivas.kota0334@gmail.com
 
 <!---
 Srinivas-162003/Srinivas-162003 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
